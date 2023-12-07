@@ -17,8 +17,8 @@
             "id" : 3,
             "nama" : "Cashier App",
             "gambar" : "web3.png",
-            "bahasa" : "HTML, MaterializeCSS, JavaScript",
-            "link" : "https://jj-comprofile.netlify.app/"
+            "bahasa" : "HTML, Bootsrap, ReactJS, Axios, JSONPlaceholder, SweetAlert.",
+            "link" : "https://jj-cashier.netlify.app/"
         },{
             "id" : 4,
             "nama" : "ChatApp with Firebase",
