@@ -11,8 +11,8 @@
             "id" : 2,
             "nama" : "SIAKAD",
             "gambar" : "web2.png",
-            "bahasa" : "HTML, MaterializeCSS, JavaScript",
-            "link" : "https://jj-comprofile.netlify.app/"
+            "bahasa" : "HTML, Bootstrap, CodeIgniter3, MySql.",
+            "link" : "https://jj-siakad.netlify.app/"
         },{
             "id" : 3,
             "nama" : "Cashier App",
