@@ -1,0 +1,44 @@
+{
+    "portfolio" : [
+        {
+            "id" : 1,
+            "nama" : "Company Profile", 
+            "gambar" : "web1.png",
+            "bahasa" : "HTML, MaterializeCSS, JavaScript",
+            "link" : "https://jj-comprofile.netlify.app/"
+        },
+        {
+            "id" : 2,
+            "nama" : "SIAKAD",
+            "gambar" : "web2.png",
+            "bahasa" : "HTML, MaterializeCSS, JavaScript",
+            "link" : "https://jj-comprofile.netlify.app/"
+        },{
+            "id" : 3,
+            "nama" : "Cashier App",
+            "gambar" : "web3.png",
+            "bahasa" : "HTML, MaterializeCSS, JavaScript",
+            "link" : "https://jj-comprofile.netlify.app/"
+        },{
+            "id" : 4,
+            "nama" : "ChatApp with Firebase",
+            "gambar" : "web4.png",
+            "bahasa" : "HTML, MaterializeCSS, JavaScript",
+            "link" : "https://jj-comprofile.netlify.app/"
+        },
+        {
+            "id" : 5,
+            "nama" : "Personal Portfolio",
+            "gambar" : "web5.png",
+            "bahasa" : "HTML, MaterializeCSS, JavaScript",
+            "link" : "https://jj-comprofile.netlify.app/"
+        },
+        {
+            "id" : 6,
+            "nama" : "Spotify Clone",
+            "gambar" : "web6.png",
+            "bahasa" : "HTML, MaterializeCSS, JavaScript",
+            "link" : "https://jj-comprofile.netlify.app/"
+        }
+    ]
+}
