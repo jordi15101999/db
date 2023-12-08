@@ -28,17 +28,17 @@
         },
         {
             "id" : 5,
-            "nama" : "Personal Portfolio",
+            "nama" : "Attendance Website App",
             "gambar" : "web5.png",
-            "bahasa" : "ReactJS, Tailwind CSS, Swiper.",
-            "link" : "https://jj-portfolio.netlify.app/"
+            "bahasa" : "CodeIgniter4, Bootstrap, Javascript, GPS System.",
+            "link" : "https://localhost/"
         },
         {
             "id" : 6,
-            "nama" : "Spotify Clone",
+            "nama" : "Personal Portfolio",
             "gambar" : "web6.png",
-            "bahasa" : "HTML, MaterializeCSS, JavaScript",
-            "link" : "https://jj-comprofile.netlify.app/"
+            "bahasa" : "ReactJS, Tailwind CSS, Swiper",
+            "link" : "https://jj-portfolio.netlify.app/"
         }
     ]
 }
