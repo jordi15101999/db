@@ -11,27 +11,27 @@
             "id" : 2,
             "nama" : "SIAKAD",
             "gambar" : "web2.png",
-            "bahasa" : "HTML, Bootstrap, CodeIgniter3, MySql.",
-            "link" : "https://jj-siakad.netlify.app/"
+            "bahasa" : "CodeIgniter3, Bootstrap, MySql, SB-admin2.",
+            "link" : "https://localhost/siakad"
         },{
             "id" : 3,
             "nama" : "Cashier App",
             "gambar" : "web3.png",
-            "bahasa" : "HTML, Bootsrap, ReactJS, Axios, JSONPlaceholder, SweetAlert.",
+            "bahasa" : "ReactJS, Axios, JSONPlaceholder, Bootstrap, SweetAlert.",
             "link" : "https://jj-cashier.netlify.app/"
         },{
             "id" : 4,
             "nama" : "ChatApp with Firebase",
             "gambar" : "web4.png",
-            "bahasa" : "HTML, MaterializeCSS, JavaScript",
-            "link" : "https://jj-comprofile.netlify.app/"
+            "bahasa" : "ReactJS, Axios, Firebase, Tailwind CSS",
+            "link" : "https://jj-chat.netlify.app/"
         },
         {
             "id" : 5,
             "nama" : "Personal Portfolio",
             "gambar" : "web5.png",
-            "bahasa" : "HTML, MaterializeCSS, JavaScript",
-            "link" : "https://jj-comprofile.netlify.app/"
+            "bahasa" : "ReactJS, Tailwind CSS, Swiper.",
+            "link" : "https://jj-portfolio.netlify.app/"
         },
         {
             "id" : 6,
