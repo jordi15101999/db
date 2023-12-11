@@ -2,10 +2,10 @@
     "portfolio" : [
         {
             "id" : 1,
-            "nama" : "Company Profile", 
+            "nama" : "Football Top Leagues Standings", 
             "gambar" : "web1.png",
-            "bahasa" : "HTML, MaterializeCSS, JavaScript",
-            "link" : "https://jj-comprofile.netlify.app/"
+            "bahasa" : "ReactJS, Fetch API, BootStrap. "
+            "link" : "https://standings-topleagues.netlify.app/"
         },
         {
             "id" : 2,
@@ -28,7 +28,7 @@
         },
         {
             "id" : 5,
-            "nama" : "Attendance Website App",
+            "nama" : "Attendance Website App ( Final Project )",
             "gambar" : "web5.png",
             "bahasa" : "CodeIgniter4, Bootstrap, Javascript, GPS System.",
             "link" : "https://localhost/"
@@ -37,7 +37,7 @@
             "id" : 6,
             "nama" : "Personal Portfolio",
             "gambar" : "web6.png",
-            "bahasa" : "ReactJS, Tailwind CSS, Swiper",
+            "bahasa" : "ReactJS, FetchAPI, Tailwind CSS, Swiper",
             "link" : "https://jj-portfolio.netlify.app/"
         }
     ]
