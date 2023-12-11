@@ -37,8 +37,15 @@
             "id" : 6,
             "nama" : "Personal Portfolio",
             "gambar" : "web6.png",
-            "bahasa" : "ReactJS, FetchAPI, Tailwind CSS, Swiper",
+            "bahasa" : "ReactJS, FetchAPI, Tailwind CSS, Swiper.",
             "link" : "https://jj-portfolio.netlify.app/"
+        },
+        {
+            "id" : 7,
+            "nama" : "Company Profile",
+            "gambar" : "web7.png",
+            "bahasa" : "HTML, Materialize CSS, JavaScript.",
+            "link" : "https://jj-comprofile.netlify.app/"
         }
     ]
 }
