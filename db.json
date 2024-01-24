@@ -2,46 +2,53 @@
     "portfolio" : [
         {
             "id" : 1,
+            "nama" : "Blog App", 
+            "gambar" : "web8.png",
+            "bahasa" : "MongoDb, Express, React JS, Node (MERN Stack) and Tailwind CSS",
+            "link" : "https://localhost:5173/"
+        },
+        {
+            "id" : 2,
             "nama" : "Football Top Leagues Standings", 
             "gambar" : "web1.png",
             "bahasa" : "ReactJS, Fetch API, BootStrap. ",
             "link" : "https://standings-topleagues.netlify.app/"
         },
         {
-            "id" : 2,
+            "id" : 3,
             "nama" : "SIAKAD",
             "gambar" : "web2.png",
             "bahasa" : "CodeIgniter3, Bootstrap, MySql, SB-admin2.",
             "link" : "https://localhost/siakad"
         },{
-            "id" : 3,
+            "id" : 4,
             "nama" : "Cashier App",
             "gambar" : "web3.png",
             "bahasa" : "ReactJS, Axios, JSONPlaceholder, Bootstrap, SweetAlert.",
             "link" : "https://jj-cashier.netlify.app/"
         },{
-            "id" : 4,
+            "id" : 5,
             "nama" : "ChatApp with Firebase",
             "gambar" : "web4.png",
             "bahasa" : "ReactJS, Axios, Firebase, Tailwind CSS",
             "link" : "https://jj-chat.netlify.app/"
         },
         {
-            "id" : 5,
+            "id" : 6,
             "nama" : "Attendance Website App ( Final Project )",
             "gambar" : "web5.png",
             "bahasa" : "CodeIgniter4, Bootstrap, Javascript, GPS System.",
             "link" : "https://localhost/"
         },
         {
-            "id" : 6,
+            "id" : 7,
             "nama" : "Personal Portfolio",
             "gambar" : "web6.png",
             "bahasa" : "ReactJS, FetchAPI, Tailwind CSS, Swiper.",
             "link" : "https://portfolio-johjordi.netlify.app/"
         },
         {
-            "id" : 7,
+            "id" : 8,
             "nama" : "Company Profile",
             "gambar" : "web7.png",
             "bahasa" : "HTML, Materialize CSS, JavaScript.",
