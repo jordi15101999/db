@@ -1,5 +1,4 @@
-{
-  "credit" : [
+[
     { 
       "pokok": 1000000, 
       "bunga": 100000, 
@@ -71,6 +70,5 @@
       "bunga": 100000, 
       "angsuran": 35000, 
       "outstanding": 32000 
-    },
+    }
   ]
-}
